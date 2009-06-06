@@ -13,7 +13,8 @@ Gem::Specification.new do |s|
      "README"
   ]
   s.files = [
-    "LICENSE",
+    ".gitignore",
+     "LICENSE",
      "README",
      "RUBY-TESTING",
      "Rakefile",
@@ -33,7 +34,6 @@ Gem::Specification.new do |s|
      "lib/rfeedparser/scrub.rb",
      "lib/rfeedparser/time_helpers.rb",
      "lib/rfeedparser/utilities.rb",
-     "pkg/rfeedparser-0.9.950.gem",
      "rfeedparser.gemspec",
      "tests/illformed/amp/amp01.xml",
      "tests/illformed/amp/amp02.xml",
